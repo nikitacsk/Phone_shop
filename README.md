@@ -1,3 +1,5 @@
 # Phone_shop
-# Phone_shop
-# Phone_shop
+Для того щоб запустити сайт потрібно:
+1)Встанови усі файли
+2)Відкрий за допомогою Visual Studio
+3)Запусти програму в Visual Studio
